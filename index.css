@@ -1,0 +1,13 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.mylinks{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    list-style: none;
+   
+   
+}
